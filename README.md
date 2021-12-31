@@ -3,8 +3,8 @@ This is my first epizode repository. I discussed about my new channel and showed
 
 Ep. 0.0: Introdution to world of computer science. Time and space complexity.
 
-Unit 1: Numbers and sequences:
-Ep. 1.1: Arithmetic and geomatric sequences. Fibonacci sequence.
+# Unit 1: Numbers and sequences:
+	Ep. 1.1: Arithmetic and geomatric sequences. Fibonacci sequence.
 	Ep. 1.2: GCD and LCM algorithms.
 	Ep. 1.3: Prime numbers and basic tests for number primality. Prime number generators.
 	Ep. 1.4: Other prime number tests. Chinese Primality test, Elliptic curve test.
@@ -16,14 +16,14 @@ Ep. 1.1: Arithmetic and geomatric sequences. Fibonacci sequence.
 	Ep. 1.10: Logarithm calculation.
 	Ep. 1.11: Euler and PI number aproximation finding.
 
-Unit 2: Arrays and vectors:
+# Unit 2: Arrays and vectors:
 	Ep. 2.1: Array properties.
 	Ep. 2.2: Search element in array. Linear search, binary search, interpolation search.
 	Ep. 2.3: Vectors.
 	Ep. 2.4: Hashmap and hashing algorithms.
 	Ep. 2.5: Prefix sum.
 
-Unit 3: Sorting algorithms:
+# Unit 3: Sorting algorithms:
 	Ep. 3.1: Selection, bubble, insertion sort.
 	Ep. 3.2: QuickSort.
 	Ep. 3.3: Merge Sort and TimSort.
@@ -31,7 +31,7 @@ Unit 3: Sorting algorithms:
 	Ep. 3.5: Comb Sort, Cycle Sort, Cocktail Sort.
 	Ep. 3.6: Other Sorting Algorithms. Pigeonhole Sort, Bitonic Sort, Pancake Sort, Binary Insertion Sort and Stooge Sort.
 
-Unit 4: Lists:
+# Unit 4: Lists:
 	Ep. 4.1: Linked List.
 	Ep. 4.2: Bidirectional List.
 	Ep. 4.3: Linked List Cycles.
@@ -40,12 +40,12 @@ Unit 4: Lists:
 	Ep. 4.6: Linked List inversion and merging.
 	Ep. 4.7: Disjoint List Structures.
 	
-Unit 5: Other non - hierarchical data structures:
+# Unit 5: Other non - hierarchical data structures:
 	Ep. 5.1: Stacks.
 	Ep. 5.2: Heaps.
 	Ep. 5.3: Queues.
 
-Unit 6: Trees:
+# Unit 6: Trees:
 	Ep. 6.1: First tree implementation.
 	Ep. 6.2: Quadtrees.
 	Ep. 6.3: Binary trees and converting any tree to binary tree.
@@ -60,7 +60,7 @@ Unit 6: Trees:
 	Ep. 6.12: Huffmann compression.
 	Ep. 6.13: Disjoint List Structures and binary tree forest.
 
-Unit 7: Graphs:
+# Unit 7: Graphs:
 	Ep. 7.1: Graph vertices relations data structures.
 	Ep. 7.2: DFS and BFS graph traversal.
 	Ep. 7.3: Graph Tranposition.
@@ -85,7 +85,7 @@ Unit 7: Graphs:
 	Ep. 7.19: Maximum flow problem. Ford - Fulkerson and Edmons - Karp algorithms.
 	Ep. 7.20: Bandwith matrix.
 	
-Unit 8: Strings:
+# Unit 8: Strings:
 	Ep. 8.1: Basic string operations abd naive pattern matching.
 	Ep. 8.2: Fast Morris - Prett and Knuthe - Morris - Prett pattern matching algorithms.
 	Ep. 8.3: Fast Boyer - Moore pattern matching algorithm.
@@ -99,7 +99,7 @@ Unit 8: Strings:
 	Ep. 8.11: Big Int. Dubtraction and division.
 	Ep. 8.12: String hashing.
 	
-Unit 9: Triangulation and terrain modeling:
+# Unit 9: Triangulation and terrain modeling:
 	Ep. 9.1: Delunay Triangulation.
 	Ep. 9.2: Additive and recursion methods of triangulating a plane.
 	Ep. 9.3: Voronoi Diagrams.
@@ -112,7 +112,7 @@ Unit 9: Triangulation and terrain modeling:
 	Ep. 9.10: Simplex noise.
 	Ep. 9.11: Point cloud processing and shape detection.
 	
-Unit 10: Sound processing:
+# Unit 10: Sound processing:
 	Ep. 10.1: Cycle finding aLgorithm.
 	Ep. 10.2: Other sound wave properties.
 	Ep. 10.3: Changing sound laudness and tone.
@@ -124,7 +124,7 @@ Unit 10: Sound processing:
 	Ep. 10.9: Prony's mathod.
 	Ep. 10.10: Wavelet transform.
 	
-Unit 11: Image processing:
+# Unit 11: Image processing:
 	Ep. 11.1: Colour spaces and greyscale.
 	Ep. 11.2: RGB to HSV, RGB to CMYK and vice versa.
 	Ep. 11.3: Image translation by specified Vector.
@@ -138,14 +138,14 @@ Unit 11: Image processing:
 	Ep. 11.11: Layers.
 	Ep. 11.12: Edge detection.
 	
-Unit 12: Vector graphics:
+# Unit 12: Vector graphics:
 	Ep. 12.1: Cubic Bezier curves.
 	Ep. 12.2: Quadratic Bezier curves.
 	Ep. 12.3: SVG vector graphics images format.
 	Ep. 12.4: Bitmap vectorization.
 	Ep. 12.5: Vector image rasterization.
 
-Unit 13: Compression methods:
+# Unit 13: Compression methods:
 	Ep. 13.1: Entropy type loseless compression. Arithmetic compression.
 	Ep. 13.2: Entropy type loseless compression. Range encoding.
 	Ep. 13.3: Entropy type loseless compression. Shannon - Fano compression.
