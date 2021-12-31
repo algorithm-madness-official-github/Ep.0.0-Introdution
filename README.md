@@ -137,6 +137,7 @@ Ep. 0.0: Introdution to world of computer science. Time and space complexity.
 	Ep. 11.10: Color blending and negative colors.
 	Ep. 11.11: Layers.
 	Ep. 11.12: Edge detection.
+	Ep. 11.13: Pattern detection.
 	
 # Unit 12: Vector graphics:
 	Ep. 12.1: Cubic Bezier curves.
