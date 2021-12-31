@@ -1,7 +1,7 @@
 # Ep.0.0-Introdution
 This is my first epizode repository. I discussed about my new channel and showed Curriculum of this series. I also explained an essential topic: time and space complexity of an algorithm. As I promised, there is list of topics appearing in this series in chronological order. I'm keen on our future study, take care!
 
-##Ep. 0.0: Introdution to world of computer science. Time and space complexity.
+Ep. 0.0: Introdution to world of computer science. Time and space complexity.
 
 Unit 1: Numbers and sequences:
 	Ep. 1.1: Arithmetic and geomatric sequences. Fibonacci sequence.
