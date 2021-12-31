@@ -4,7 +4,7 @@ This is my first epizode repository. I discussed about my new channel and showed
 Ep. 0.0: Introdution to world of computer science. Time and space complexity.
 
 Unit 1: Numbers and sequences:
-	Ep. 1.1: Arithmetic and geomatric sequences. Fibonacci sequence.\n
+Ep. 1.1: Arithmetic and geomatric sequences. Fibonacci sequence.
 	Ep. 1.2: GCD and LCM algorithms.
 	Ep. 1.3: Prime numbers and basic tests for number primality. Prime number generators.
 	Ep. 1.4: Other prime number tests. Chinese Primality test, Elliptic curve test.
